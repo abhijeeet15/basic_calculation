@@ -1,5 +1,5 @@
-let number = 5;
-let fruit = " apples";
+var number = 5;
+var fruit = " apples";
 
-let result = number + fruit;
+var result = number + fruit;
 console.log(result); 
